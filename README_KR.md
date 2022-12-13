@@ -24,7 +24,7 @@
 2. SQL SERVER MANAGEMENT STUDIO(SSMS)
 
 ## 개발 기간
-시작 : 22. 12. 11(일)
+시작 : 22. 12. 11(일)  
 종료 : 이런거 판단할 수 있으면 신입 아님
 
 ## 이미 있는 프로그램들 분석
@@ -32,3 +32,8 @@
 1. 엑셀 내장 기능(Compare and merge copies of a shared workbook)
 2. Third-Party Tools
 3. Online Service
+
+
+## 개발 경과
+2022 - 12 - 12  
+winform 엑셀 로드 완료
